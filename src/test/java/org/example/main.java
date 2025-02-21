@@ -5,6 +5,5 @@ public class main {
         System.out.println("Bem vindo ao projeto Simples");
 
         System.out.println("nova funcionalidade adicionada!");
-        System.out.println("nova funcionalidade adicionada!");
     }
 }
